@@ -1,6 +1,6 @@
 # Stores
 <img src="https://media.fashionnetwork.com/m/84a0/8343/a8a4/2e3f/a0df/4d2b/de4e/8218/7c7e/fcf3/fcf3.jpg">
-Sorting crowded and empty stores using AlexNet involves training a deep neural network on a large dataset of store images, using the architecture of AlexNet, which is a convolutional neural network (CNN) designed for image classification tasks. The following is a general outline of the process:
+Sorting crowded and less packed stores using AlexNet involves training a deep neural network on a large dataset of store images, using the architecture of AlexNet, which is a convolutional neural network (CNN) designed for image classification tasks. The following is a general outline of the process:
 
 Dataset Preparation: Collect a large dataset of store images, divided into training, validation, and testing sets. Each image should be labeled as either crowded or empty.
 
