@@ -15,3 +15,5 @@ Testing: Finally, test the model on the testing set, reporting the final accurac
 Deployment: Deploy the trained model in a production environment, such as a web application or a mobile app, to automate the process of sorting stores based on their level of crowding.
 
 Overall, sorting crowded and empty stores using AlexNet involves using a deep learning model to learn the patterns in the images that distinguish between crowded and empty stores and using this knowledge to classify new store images into their correct categories. This can be useful in various applications such as crowd management, retail optimization, and security.
+
+Video: https://youtu.be/TmuwJyLt4xo
